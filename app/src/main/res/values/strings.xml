@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sightseeing Nuremberg</string>
+         <string name="tip">Welcome to Sightseeing Nuremberg, Bavaria, Franconia, Germany. Visit http://nickaiva.blogspot.com for newer versions.
+    </string>
+    <string name="copyright">
+        Copyrighted 2016 and protected under the creative commons license.The source of photos and
+        text is the wikipedia. Attribution of photos: jailbreak, AlterVista. The icon is courtecy of
+        www.iconscreator.com"
+    </string>
+    <string name="popup_detail">Click on the icons for the route and further online info!</string>
+    <string name="popup_close">Pressing the back button will close the app!</string>
+    <string name="detail_text_sebaldus">St. Sebaldus Church (St. Sebald, Sebalduskirche) is a
+        medieval church in Nuremberg, Germany. Along with Frauenkirche (Our Lady Church) and St. Lorenz,
+        it is one of the most important churches of the city,
+        and also one of the oldest. It is located at the Albrecht-Dürer-Platz, in front of the old
+        city hall. It takes its name from Sebaldus, an 8th-century hermit and missionary and
+        patron saint of Nuremberg celebrated on the 19 of August. It has been a Lutheran parish
+        church since the Reformation. Please click on the right icon for more information.
+    </string>
+    <string name="detail_text_lorentz">St. Lorenz (St. Lawrence) is a medieval church of the former free imperial city of Nuremberg in southern Germany. It is dedicated to Saint Lawrence. The church was badly damaged during the Second World War and later restored. It is one of the most prominent churches of the Evangelical Lutheran Church in Bavaria.
+        The nave of the church was completed by around 1400. In 1439, work began on the choir in the form of a hall church
+        in the late German Sondergotik style of Gothic architecture. The choir was largely completed by 1477 by Konrad
+        Roriczer,although Jakob Grimm completed the intricate vaults. In the choir one can find the carving of the Angelic
+        Salutation by Veit Stoss, and the monumental tabernacle by Adam Kraft. The latter includes a prominent figure of
+        the sculptor himself. The building and furnishing of the church was cared of by the city council and by wealthy citizens.
+        This is probably the reason why the art treasures of St. Lawrence were spared during the iconoclasm during the Reformation  period. Despite St. Lawrence being one of the first churches in Germany to be Lutheran (1525), the wealthy citizens of  Nuremberg wanted to preserve the memory of their ancestors and refused the removal of the donated works of art. The west facade is richly articulated, reflecting the wealth of the Nuremberg citizens. The facade is dominated by the two towers,  mirroring St. Sebald and indirectly Bamberg Cathedral with a sharp towering West portal doorway, and an indented rose window 9 metres in diameter. Please click on the right icon for more information.</string>
+    <string name="detail_text_hauptmarkt">The market is the most central place of the old town. Having an extend of 5000 square  meters open for  pedestrians and bikes, it hosts  weekly the grocery market. During the Christmas season it hosts the older known market called Christkindlesmarkt.  Initially the place was a marsh next to the river bank, which was always used for hosting any newcomers or migrants, such as Jews, which were later exterminated when the fortification of the city was completed, under the auspices  of the Kaiser.  Please click on the right icon for more information.
+    </string>
+    <string name="detail_text_burg">Nuremberg Castle (German: Nürnberger Burg) is a historical building on a sandstone rock
+        in the north of the historical city of Nuremberg in Bavaria, Germany. It comprises of three sections: the Imperial castle
+        (Kaiserburg), some buildings of the Burgraves of Nuremberg (Burggrafenburg), and the municipal buildings of the Imperial
+        City at the eastern site (Reichsstädtische Bauten). The castle, together with the city walls, is considered to be among  the
+        most formidable medieval fortifications of Europe. Nuremberg, which was first mentioned in a document as a royal property in 1050, played an important part in the imperial  and domestic policy of the Salian and Hohenstaufen kings and emperors. The castle and town were a favourite stopping place for rulers on their journeys through the realm, and court assemblies and Imperial Diets were held here. In order to provide an appropriate setting for these events, the Hohenstaufens built an extended castle complex on the rocky elevation over the remains of older buildings, which is still largely what we see today. To administer the imperial property and maintain order they installed a burgrave, who resided in the front area of the complex (the so-called Burgrave’s Castle). In 1191 the office of burgrave passed to the Counts of Zollern. Please click on the right icon for more information.</string>
+    <string name="detail_text_durer">
+         Albrecht Durer  House is a Nuremberg Fachwerkhaus that was the home of the German Renaissance
+        artist Albrecht Durer (1471-1528) and his wife Agnes for about 20 years,  from 1509 to his
+        death in 1528. The House lies in the extreme north-west of Nuremberg Altstadt,  near the
+        Kaiserburg section of the Nuremberg Castle and the Tiergärtnertor of Nuremberg city walls.
+        The house was built around 1420. The only room which remains exactly as it was built, is
+        the kitchen. The house has five floors; the bottom two have sandstone walls, while the upper
+        ones are timber framed; the entire structure is topped by a half-hip roof. In 1501, it was
+        purchased by Bernhard Walther, a merchant and prominent astronomer. Walter remodelled the
+        house, adding small windows to the roof so that it could function as an observatory. Walther
+        died in 1504, and Dürer purchased the house in 1509. The museum exhibits mostly copies of
+        his work as the originals are scattered in museums all around the world. There is also the
+        possibility to learn about the personality of the artist, his behaviour  and his attitude
+        towards other people. Please click on the right icon for more information.
+    </string>
+    <string name="detail_text_apaulus">The church of the holy apostol Saint Paulus is the cultural
+        centre of the orthodox community of the region. On the ground floor there is an auditorium
+        and a modest library. On the basement the leisure room for children and the loo. The church
+        is on the first floor, where are paintings and other modern pieces of art similar to the
+        traditional masterpieces of Byzantium era, found in other orthodox places in Europe.
+        Please click on the right icon for more information.
+</string>
+    <string name="nameArraySebaldus">The lutheran church of Saint Sebaldus.</string>
+    <string name="nameArrayLorentz">The gothic  church of Saint Lorentz.</string>
+    <string name="nameArrayFrauenkirche">The  main market of the old city and the Frauenkirche.</string>
+    <string name="nameArrayBurg">The palace and castle of the Kaiser.</string>
+    <string name="nameArrayDuerer">The  house of the famous Albrecht Duerer.</string>
+    <string name="nameArrayStPaul">The Greek orthodox church of the holy apostol Paulus.</string>
+
+    <string name="infoArraySebaldus">Nuremberg, city centre, Franken, Bavaria.</string>
+    <string name="infoArrayLorentz">Nuremberg, city centre, Franken, Bavaria.</string>
+    <string name="infoArrayFrauenkirche">Nuremberg, city centre, Franken, Bavaria.</string>
+    <string name="infoArrayBurg">Νorth of the historical city of Nuremberg.</string>
+    <string name="infoArrayDuerer">Nuremberg, extreme north-west of city centre, Franken.</string>
+    <string name="infoArrayStPaul">East part of the city, Obere Kanalstr. 35, Nürnberg.</string>
+
+    <string name="detailWebLinkSebaldus">https://en.wikipedia.org/wiki/St._Sebaldus_Church,_Nuremberg</string>
+    <string name="detailWebLinkLorentz">https://en.wikipedia.org/wiki/St._Lorenz,_Nuremberg</string>
+    <string name="detailWebLinkFrauenkirche">https://de.wikipedia.org/wiki/Hauptmarkt_(N%C3%BCrnberg)</string>
+    <string name="detailWebLinkBurg">https://en.wikipedia.org/wiki/Nuremberg_Castle</string>
+    <string name="detailWebLinkDuerer">http://www.museums.nuremberg.de/duerer-house/index.html</string>
+    <string name="detailWebLinkStPaul">http://apantaortodoxias.blogspot.gr/2012/02/i-o-e.html</string>
+
+
+
+    <string name="distance">Approximate current distance</string>
+    <string name="distanceUnavailable">Current distance not available</string>
+
+
+</resources>
+
+

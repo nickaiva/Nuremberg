@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sightseeing Nürnberg</string>
+     <string name="tip">Willkommen in Sightseeing Nürnberg, Franken, Bayern, Deutschland. Besuchen Sie http://nickaiva.blogspot.com für neueren Versionen.
+    </string>
+    <string name="copyright">
+        Copyrighted 2016 and protected under the creative commons license. Die Texte kommen aus
+        wikipedia. Icon von iconscreator.com
+    </string>
+    <string name="popup_detail">Klicken Sie auf die Ikone für die Route und weitere online Info!</string>
+    <string name="popup_close">Drücken Sie  den Zurück-Button um  die App zu schließen!</string>
+    <string name="detail_text_sebaldus">Die mittelalterliche Kirche St. Sebald in Nürnberg, auch Sebalduskirche genannt
+        (nach dem wohl im 8. Jahrhundert in der Gegend von Nürnberg lebenden Einsiedler Sebaldus, gefeiert am 19. August), ist neben der Frauenkirche
+        und der Lorenzkirche eine der herausragenden Kirchenbauten der Stadt. Sie liegt auf dem Weg zur Burg nördlich etwas
+        oberhalb des Hauptmarkts und gleich westlich vor dem Rathaus. Erstaunlich reichhaltig hat sich die Ausstattung im Innern
+        erhalten. Seit der Reformation ist die Sebalduskirche neben der Lorenzkirche eine der beiden großen evangelischen
+        Stadtkirchen Nürnbergs, die heutzutage beide zur Evangelisch-Lutherischen Kirche in Bayern gehören.
+        Bitte Klicken Sie auf das Ikon rechts für mehr Info.</string>
+    <string name="detail_text_lorentz">St. Lorenz ist ein gotischer Kirchenbau in Nürnberg.
+        Die Lorenzkirche war die Pfarrkirche des südlich der Pegnitz gelegenen mittelalterlichen Siedlungskerns der ehemaligen
+        Reichsstadt Nürnberg und bildet städtebaulich das Pendant zu der älteren Kirche St. Sebald im nördlichen Stadtteil. Baubeginn der dreischiffigen Basilika war um 1250, der spätgotische Hallenchor wurde 1477 vollendet. Patron der Kirche ist der Heilige Lorenz. Der im Zweiten Weltkrieg stark beschädigte Bau wurde nach altem Vorbild wieder aufgebaut. Seit der Reformation ist die Lorenzkirche neben der Sebalduskirche eine der beiden großen evangelischen Stadtkirchen Nürnbergs, die beide zum Dekanat Nürnberg der Evangelisch-Lutherischen Kirche in Bayern gehören. Die Lorenzkirche ist Sitz des Nürnberger Stadtdekans und in ihr findet traditionell die Einführung des neugewählten Landesbischofs statt. Bitte Klicken Sie auf das Ikon rechts für mehr Info.
+    </string>
+    <string name="detail_text_hauptmarkt">Der Hauptmarkt ist der zentrale Platz in der Altstadt von Nürnberg.
+        Auf der rund 5.000 Quadratmeter großen Freifläche findet werktäglich der Wochenmarkt statt.  Bei der Nutzung des Hauptmarktes durch den Christkindesmarkt oder andere Märkte und Veranstaltungen werden die Wochenmarktstände in die umliegende Fußgängerzone und rund um die Frauenkirche verlegt. Bitte Klicken Sie auf das Ikon rechts für mehr Info.
+    </string>
+    <string name="detail_text_burg">Die Nürnberger Burg ist das Wahrzeichen der Stadt Nürnberg. Sie ist eine Doppelburg und besteht aus der Kaiserburg und der Burggrafenburg. Früheste bauliche Spuren stammen aus der Zeit um 1000. Anfänge 1050 als Königsgut erstmals urkundlich belegt, war in der Zeit der salischen und staufischen Könige und Kaiser ein  wichtiger Stützpunkt ihrer Reichs- und Hausmachtpolitik. Burg und Ort bildeten einen bevorzugten Aufenthaltsort der  umherreisenden Herrscher, die hier Hoftage und Reichsversammlungen abhielten. Dafür errichteten die Staufer auf dem   Burgfelsen über älteren Bauten  eine ausgedehnte Pfalzanlage, die noch heute das Erscheinungsbild der Kaiserburg prägt. Zur Verwaltung des Reichsguts und zur Aufrechterhaltung der Ordnung setzten sie einen Burggrafen ein, der im vorderen    Bereich der Anlage (sogenannte Burggrafenburg) residierte. 1191 ging das Amt des Burggrafen an die Grafen von Zollern über. Dank der engen Verbindung zum Königtum und der Lage am Kreuzungspunkt wichtiger Fernstraßen entwickelte sich Nürnberg rasch zu einem bedeutenden Zentrum von Transithandel und Exportgewerbe sowie zum Finanzplatz. Der Freiheitsbrief Kaiser Friedrichs II. von 1219 begünstigte die bürgerliche Autonomie der Gemeinde auf Kosten der burggräflichen Rechte und Aufgaben. Die Entwicklung zur eigenständigen Reichsstadt festigte sich mit dem Ende der Staufer 1254. Nach den schweren Beschädigungen im Zweiten Weltkrieg wurde die Burganlage in historischen Formen wiederaufgebaut. Sie zählt in ihrem historischen Charakter als Wehrbau und Kaiserresidenz, Reichsburg und hohenzollerischer Burggrafensitz zu den geschichtlich und baukünstlerisch bedeutendsten Wehranlagen Europas. In der Kemenate kann man sich gratis einen Film mit einer grafischen Präsentation des Abbaus und Aufbaus der Burg, auf Deutsch oder Englisch ansehen. Heute ist die Bayerische Schlosserverwaltung für die Burg zuständig. Die Gesamtkarte für Palas mit Doppelkapelle, Tiefer Brunnen, Sinwellturm und Kaiserburg-Museum kostet 7€.für Burggarten und Maria Sibylla Merian-Garten ist aber die Eintritt frei.Bitte Klicken Sie auf das Ikon rechts für mehr Info.</string>
+    <string name="detail_text_durer">
+       Das Albrecht-Dürer-Haus ist ein Nürnberger Fachwerkhaus, in dem  der deutschen Renaissance    Künstler Albrecht Dürer (1471-1528) und seine Frau Agnes für etwa 20 Jahre, von 1509 bis zu seinem Tod im Jahr 1528 gewohnt hatten.  Das Haus liegt im ?u?ersten Nordwesten von Nürnberg Altstadt,in der Nähe der Kaiserschnitt der Nürnberger Burg und der Tiergärtnertor der Nürnberger Stadtwände  Haus und wurde um 1420 gebaut. Nur die Küche bleibt heute genau wie es damals war. Das Haus hat f?nf Stockwerke; die beiden unteren haben Sandsteinmauern, während die oberen Stockwerke sind aus Holz umrahmt;  die gesamte Struktur wird durch eine halb Walmdach gekrönt. Im Jahre 1501 wurde sie von Bernhard Walther, einem Kaufmann und prominente Astronom gekauft. Walter umgebaut, das Haus, das Hinzufügen kleine Fenster auf das Dach, so dass es als Beobachtungsstelle fungieren könnte. Walther starb im Jahre 1504, und Dürer hat das Haus im Jahr 1509 gekauft. Heute gibt es im Haus meistens nur Kopien von seinen Kunstwerken, die  Originalen sind im Ausland in privaten Sammlungen oder in Museen weltweit ausgestellt. Außerdem können die Besucher über das Benehmendes Künstlers gegen seinen Mitmenschen erfahren. Bitte Klicken Sie auf das Ikon rechts für mehr Info.
+    </string>
+    <string name="detail_text_apaulus">Die Pfarrkirche St. Paulus der griechisch-orthodoxen Gemeinde, liegt im Nürnberger Stadtteil  Gostenhof,und gilt als Treffpunkt aller orthodoxen in Nürnberg. Im Erdgeschoss gibt es eine kleine Bibliothek und das Auditorium. Die Kirche kann man  im ersten Stock besichtigen. Da gibt es moderne Kunstwerke, ähnliche den  traditionellen byzantinischen Kirchen wie in orthodoxen Ländern. Im Keller findet man das Spielraum, nicht nur für die Kinder und die Toiletten. Bitte Klicken Sie auf das Ikon rechts für mehr Info.
+    </string>
+    <string name="nameArraySebaldus">Die lutheranische Kirche von Saint Sebaldus.</string>
+    <string name="nameArrayLorentz">Die gothische Kirche von Saint Lorentz.</string>
+    <string name="nameArrayFrauenkirche">Der Hauptmark von Altstadt und die Frauenkirche.</string>
+    <string name="nameArrayBurg">Die Kaiserburg.</string>
+    <string name="nameArrayDuerer">Das  Haus des berühmten Albrecht Dürer.</string>
+    <string name="nameArrayStPaul">Die Griechische orthodoxe Kirche von heiligen Apostel Paulus.</string>
+
+    <string name="infoArraySebaldus">Nürnberg, im Centrum der Altstadt, Franken.</string>
+    <string name="infoArrayLorentz">Nürnberg, U-Bahn Haltestelle St.Lorentz im Centrum der Altstadt.</string>
+    <string name="infoArrayFrauenkirche">Nürnberg, im Centrum der Altstadt.</string>
+    <string name="infoArrayBurg">Νordteil der Altstadt von Nürnberg.</string>
+    <string name="infoArrayDuerer">Der extreme Nordwestteil der Altstadt von Nürnberg, Franken.</string>
+    <string name="infoArrayStPaul">Gostenhof, im Ostteil von Nürnberg, Obere Kanalstr. 35, Nürnberg.</string>
+
+    <string name="detailWebLinkSebaldus">https://de.wikipedia.org/wiki/St._Sebald_(N%C3%BCrnberg)</string>
+    <string name="detailWebLinkLorentz">https://de.wikipedia.org/wiki/St._Lorenz_(N%C3%BCrnberg)</string>
+    <string name="detailWebLinkFrauenkirche">https://de.wikipedia.org/wiki/Hauptmarkt_(N%C3%BCrnberg)</string>
+    <string name="detailWebLinkBurg">https://de.wikipedia.org/wiki/N%C3%BCrnberger_Burg</string>
+    <string name="detailWebLinkDuerer">http://www.museums.nuremberg.de/duerer-house/index.html</string>
+    <string name="detailWebLinkStPaul">http://apantaortodoxias.blogspot.gr/2012/02/i-o-e.html</string>
+
+
+    <string name="distance">Jetzige Entfernung</string>
+    <string name="distanceUnavailable">Keine Angabe zur Entfernung</string>
+
+</resources>
+
+
